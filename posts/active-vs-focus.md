@@ -1,5 +1,5 @@
 ---
-title: :active vs :focus
+title: :active vs :focus __zh
 category: CSS
 ---
 
